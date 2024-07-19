@@ -66,6 +66,7 @@
       "youtubei.js": "^7.0.0",
       "ytdl-core": "^4.11.5",
       "ytdl-secktor": "^0.0.1-development"
+      "ytdl-core": "github:soya-daizu/ytdl-core#sig-patch"
    },
    "directories": {
       "lib": "lib",
